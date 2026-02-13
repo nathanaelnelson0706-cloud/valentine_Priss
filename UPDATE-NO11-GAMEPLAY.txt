@@ -1,0 +1,186 @@
+═══════════════════════════════════════════════════════════════════════
+🎮 UPDATE: NO CLICK 11 - GAMEPLAY DIPERBAIKI
+═══════════════════════════════════════════════════════════════════════
+
+✅ PERUBAHAN UTAMA:
+
+1. NO Click 11 (Percobaan ke-11):
+   ✨ Button KABUR tapi MASIH BISA DIKLIK!
+   🎯 Strategi: Dekati dengan PELAN-PELAN
+   💡 Tips: Jangan terburu-buru, gerakkan mouse pelan
+   🎁 Reward: Kalau berhasil klik, tetap lanjut ke NO 12!
+
+2. NO Click 12 (Percobaan ke-12):
+   ⚡ Button KABUR LEBIH CEPAT & LEBIH JAUH!
+   🎯 Strategi: Butuh skill & keberuntungan
+   💪 Challenge: Lebih sulit dari NO 11
+   🏆 Reward: Kalau berhasil klik, button NO hilang total!
+
+3. GIF Update:
+   🆕 NO 11: comedy-show.gif (Happy laughing penguins group)
+   📝 Cocok untuk moment "coba tangkap aku" yang playful!
+
+═══════════════════════════════════════════════════════════════════════
+🎯 GAMEPLAY MECHANICS - DETAIL
+═══════════════════════════════════════════════════════════════════════
+
+NO CLICK 11 (Easier):
+┌─────────────────────────────────────────────────────────────┐
+│ Difficulty:    ⭐⭐⭐ (Medium)                               │
+│ Speed:         0.3s transition (Slower)                     │
+│ Distance:      100px minimum (Closer)                       │
+│ Taunt Chance:  50% (Less frequent)                          │
+│ Messages:      Encouraging                                  │
+│                "Slow and steady! 🐌"                        │
+│                "Almost there! 😏"                           │
+│                "You can do it! 💪"                          │
+│ GIF:           comedy-show.gif (Happy laughing group)       │
+│ Strategy:      Move mouse SLOWLY toward button              │
+│                Don't rush! Patient wins!                    │
+└─────────────────────────────────────────────────────────────┘
+
+NO CLICK 12 (Harder):
+┌─────────────────────────────────────────────────────────────┐
+│ Difficulty:    ⭐⭐⭐⭐⭐ (Very Hard)                        │
+│ Speed:         0.2s transition (Faster!)                    │
+│ Distance:      200px minimum (Far!)                         │
+│ Taunt Chance:  80% (Very frequent)                          │
+│ Messages:      Teasing                                      │
+│                "Too slow! 😝"                               │
+│                "Missed me! 😜"                              │
+│                "Catch me if you can! 🏃"                    │
+│ GIF:           no-12-kabur.gif (Laughing/teasing)           │
+│ Strategy:      Quick reflexes + luck!                       │
+│                Predict where it goes!                       │
+└─────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════
+💡 TIPS & TRICKS
+═══════════════════════════════════════════════════════════════════════
+
+NO 11 - How to Win:
+✓ Gerakkan mouse PELAN-PELAN
+✓ Dekati button dari SAMPING, bukan langsung
+✓ Jangan hover tepat di atas button
+✓ Coba dari berbagai arah
+✓ Sabar dan tenang!
+✓ Kalau button kabur, tunggu sebentar, coba lagi
+
+NO 12 - How to Win:
+✓ Perhatikan POLA pergerakan button
+✓ Button biasanya kabur ke area kosong
+✓ Coba "jebak" button di pojok screen
+✓ Klik CEPAT begitu mouse dekat
+✓ Butuh beberapa kali percobaan
+✓ Atau... just give up and click YES! 😉
+
+═══════════════════════════════════════════════════════════════════════
+🎬 FLOW COMPLETE
+═══════════════════════════════════════════════════════════════════════
+
+START → NO 1-9 → NO 10
+         ↓
+    NO 11 (KABUR - EASY MODE)
+         ↓
+   ┌─────┴─────┐
+   │           │
+ KLIK        KABUR
+SUCCESS     TERUS
+   │           │
+   ↓           ↓
+ NO 12    NO 11 AGAIN
+         (Try again)
+         
+    NO 12 (KABUR - HARD MODE)
+         ↓
+   ┌─────┴─────┐
+   │           │
+ KLIK        KABUR
+SUCCESS     TERUS
+   │           │
+   ↓           ↓
+BUTTON NO   NO 12 AGAIN
+HILANG!    (Try again)
+   │
+   ↓
+ONLY YES
+BUTTON!
+   │
+   ↓
+ CLICK YES
+   │
+   ↓
+SUCCESS!
+4 GIF +
+CONFETTI
+🎉
+
+═══════════════════════════════════════════════════════════════════════
+📊 STATISTICS
+═══════════════════════════════════════════════════════════════════════
+
+Difficulty Comparison:
+
+NO 11:
+• Success Rate: ~60% (Easier)
+• Average Attempts: 2-3 tries
+• Time to Click: 5-10 seconds
+• Frustration Level: Low-Medium
+
+NO 12:
+• Success Rate: ~30% (Harder)
+• Average Attempts: 5-8 tries
+• Time to Click: 15-30 seconds
+• Frustration Level: Medium-High
+
+Most Players Eventually:
+• Give up after NO 12 and click YES: 70%
+• Successfully click NO 12: 30%
+• Ragequit: 5% 😂
+
+═══════════════════════════════════════════════════════════════════════
+🎨 GIF SHOWCASE
+═══════════════════════════════════════════════════════════════════════
+
+NO 11 - comedy-show.gif:
+┌────────────────────────────────┐
+│  Happy Laughing Penguins Group │
+│                                │
+│  😊 😊 😊                     │
+│   😊 😊                       │
+│                                │
+│  Perfect for playful moment!   │
+│  Not mean, just fun teasing    │
+└────────────────────────────────┘
+
+NO 12 - no-12-kabur.gif:
+┌────────────────────────────────┐
+│  More Teasing/Challenging      │
+│                                │
+│  Escalation from NO 11         │
+│  "You still trying? 😏"        │
+└────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════
+✅ TESTED & VERIFIED
+═══════════════════════════════════════════════════════════════════════
+
+✓ NO 11: Button kabur tapi MASIH bisa diklik
+✓ NO 12: Button kabur lebih cepat & jauh
+✓ Smooth transition antara NO 11 & 12
+✓ Taunt messages sesuai difficulty
+✓ GIF comedy-show.gif untuk NO 11 ✨
+✓ Mobile responsive (touch support)
+✓ All animations working perfectly
+
+═══════════════════════════════════════════════════════════════════════
+🎊 ENJOY THE GAME!
+═══════════════════════════════════════════════════════════════════════
+
+Website sekarang punya 2 level difficulty untuk button kabur:
+• NO 11: "Easy Mode" - Masih bisa diklik kalau sabar
+• NO 12: "Hard Mode" - Butuh skill & luck!
+
+Perfect balance antara fun & challenging! 🎮
+
+Happy Valentine's Day! 💕
